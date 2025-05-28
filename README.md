@@ -39,16 +39,10 @@ Desenvolver um robô seguidor de linha com controle via ESP32 e sensores infrave
 
 ## 👨‍💻 Integrantes
 
-- Felipe de Souza Mantovani
 - Luiz Henrique Luz Santos
+- Felipe de Souza Mantovani
 - Felipe de Oliveira Canjerano
 - Marcos Vinicius Soares
-- Eduardo Augusto Alves dos Santos
-- Rafael Campeis Dutra
-- Thiago Simões de Andrade
-- Gabriel Popolin Madeira
-- Arthur da Silva Maldonado
-- João Vittor Gomes Ferreira
 
 ## 📅 Ano
 
